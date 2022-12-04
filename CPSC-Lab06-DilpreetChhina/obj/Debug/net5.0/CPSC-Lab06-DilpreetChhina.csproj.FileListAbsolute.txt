@@ -1,0 +1,16 @@
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\bin\Debug\net5.0\CPSC-Lab06-DilpreetChhina.exe
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\bin\Debug\net5.0\CPSC-Lab06-DilpreetChhina.deps.json
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\bin\Debug\net5.0\CPSC-Lab06-DilpreetChhina.runtimeconfig.json
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\bin\Debug\net5.0\CPSC-Lab06-DilpreetChhina.runtimeconfig.dev.json
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\bin\Debug\net5.0\CPSC-Lab06-DilpreetChhina.dll
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\bin\Debug\net5.0\CPSC-Lab06-DilpreetChhina.pdb
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.csproj.AssemblyReference.cache
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.AssemblyInfoInputs.cache
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.AssemblyInfo.cs
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.csproj.CoreCompileInputs.cache
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.dll
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\refint\CPSC-Lab06-DilpreetChhina.dll
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.pdb
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\CPSC-Lab06-DilpreetChhina.genruntimeconfig.cache
+D:\CPSC-Lab06-DilpreetChhina\CPSC-Lab06-DilpreetChhina\obj\Debug\net5.0\ref\CPSC-Lab06-DilpreetChhina.dll
